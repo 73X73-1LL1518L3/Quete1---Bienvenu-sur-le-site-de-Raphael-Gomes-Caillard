@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Bienvenu sur le site de Raphaël Gomes Caillard hey';
+  title = 'Bienvenu sur le site de Raphaël Gomes Caillard';
 }
